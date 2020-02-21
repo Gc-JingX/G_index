@@ -1,0 +1,2 @@
+include ':app', ':g_index'
+rootProject.name='G_IndexLabel'
